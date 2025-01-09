@@ -53,7 +53,7 @@ Including:
   
 Usage:  
 ```
-from pyshaping import Pentagon
+from pyshaping import Oblate
 
 shape = Oblate(radius=15, halfheight=5)
 print(f"Volume of the oblate spheroid is {shape.volume()}")
