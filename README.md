@@ -29,7 +29,7 @@ Including:
  - Starfish (5-point star shape)
 
 Usage:  
-```
+```python
 from pyshaping import Pentagon
 
 shape = Pentagon(side=10)
@@ -52,7 +52,7 @@ Including:
  - Sausage (Wiener Sausage shape)
   
 Usage:  
-```
+```python
 from pyshaping import Oblate
 
 shape = Oblate(radius=15, halfheight=5)
